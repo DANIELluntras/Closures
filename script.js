@@ -1,5 +1,5 @@
 //////////////////////////////
-//137. Closures
+//. Closures
 const dani = function () {
     let pasager = 0;
     return function () {
